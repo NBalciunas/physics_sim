@@ -426,7 +426,7 @@ if __name__ == '__main__':
                                   (100, 250, 0), 20, text_y_shift=6)
 
     snapshot_save_button = ButtonSmallText(WIN_SIZE_X - BUTTON_X - BUTTON_X_SPACE + 70, WIN_SIZE_Y - 115, 20, BUTTON_Y,
-                                           "C",
+                                           "S",
                                            (255, 255, 255), 20, text_y_shift=6)
     snapshot_load_button = ButtonSmallText(WIN_SIZE_X - BUTTON_X - BUTTON_X_SPACE + 100, WIN_SIZE_Y - 115, 20, BUTTON_Y,
                                            "L",
