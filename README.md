@@ -27,7 +27,8 @@ Furthermore it has support for making and loading snapshots.
 
 
 ## Results
-![8](https://github.com/NBalciunas/physics_sim/assets/87865572/3a88926b-5a16-4443-8b59-225508a62b29)
+![8](https://github.com/NBalciunas/physics_sim/assets/87865572/bc2d7c7e-590f-4816-b6c0-1739006a8bf7)
+
 
 ## Conclusion
 In conclusion, this Python program is made with the main four OOP principles in mind.
