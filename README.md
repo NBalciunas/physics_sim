@@ -9,19 +9,22 @@ Furthermore it has support for making and loading snapshots.
 
 ## OOP Pillars
 ### Polymorphism, Abstraction, Inheritence, Encapsulation
-![1](https://github.com/NBalciunas/physics_sim/assets/87865572/664fc3f8-81ea-46d6-b00b-3e7c5d68525c)
-![2](https://github.com/NBalciunas/physics_sim/assets/87865572/99e51f4f-159a-4cc8-aa63-b6570f333b3a)
-![3](https://github.com/NBalciunas/physics_sim/assets/87865572/f7165031-c086-45dd-8826-88e2f218622d)
-![4](https://github.com/NBalciunas/physics_sim/assets/87865572/d3d40818-7957-478b-ab99-e2e2f8d1821c)
-![5](https://github.com/NBalciunas/physics_sim/assets/87865572/c2da23ae-4d2c-4a64-bd45-d82c9c55f054)
+![1](https://github.com/NBalciunas/physics_sim/assets/87865572/63568d90-8230-40f6-8a1a-9b20c5ecfe53)
+![2](https://github.com/NBalciunas/physics_sim/assets/87865572/f19d7831-fa58-4045-af3c-4201d97b8965)
+![3](https://github.com/NBalciunas/physics_sim/assets/87865572/1dc3eff5-cbe1-4ce8-a284-ce402a072bf2)
+![4](https://github.com/NBalciunas/physics_sim/assets/87865572/20e42ad1-dd5d-4684-a640-3b8fedd71581)
+![5](https://github.com/NBalciunas/physics_sim/assets/87865572/d67494d9-92b6-4794-b8d7-127ff42cee26)
+
 
 ## Design Patterns
 ### Singleton
-![3](https://github.com/NBalciunas/physics_sim/assets/87865572/f7165031-c086-45dd-8826-88e2f218622d)
+![3](https://github.com/NBalciunas/physics_sim/assets/87865572/19b128ab-f928-4e79-8bba-a756bc2b903b)
+
 
 ### Decorator
-![6](https://github.com/NBalciunas/physics_sim/assets/87865572/5d5b4bc2-ae9a-4ebc-889a-6da804517b30)
-![7](https://github.com/NBalciunas/physics_sim/assets/87865572/940e3dca-ce33-43a9-8508-508c4e659dbc)
+![6](https://github.com/NBalciunas/physics_sim/assets/87865572/a26a07f1-41ee-4cf9-98dc-c8969db9ab00)
+![7](https://github.com/NBalciunas/physics_sim/assets/87865572/42186291-4b2d-4101-b0f8-5ec1e4cc1fcf)
+
 
 ## Results
 ![8](https://github.com/NBalciunas/physics_sim/assets/87865572/3a88926b-5a16-4443-8b59-225508a62b29)
