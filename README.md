@@ -33,3 +33,6 @@ Furthermore it has support for making and loading snapshots.
 ## Conclusion
 In conclusion, this Python program is made with the main four OOP principles in mind.
 It features singleton and decorator design patterns.
+I learned a lot of things and got to apply OOP principles tought in lectures.
+One of the things I learned is to work with an UI.
+It was a great learning experience.
