@@ -307,13 +307,14 @@ def gravity(grid_pos_x, grid_pos_y):
 def wind(grid_pos_x, grid_pos_y):
     if 0 < (grid_pos_y + 1) < GRID_Y and grid.grid[grid_pos_x][grid_pos_y].state != 1:
         if random.randint(0, grid.grid[grid_pos_x][grid_pos_y].viscosity) > 5:
-            if random.randint(0, 1) != 1 and grid.grid[grid_pos_x][grid_pos_y + 1].state != 1 and particle_oob_check(
+            randint = random.randint(0, 1)
+            if randint != 1 and grid.grid[grid_pos_x][grid_pos_y + 1].state != 1 and particle_oob_check(
                     grid_pos_x, grid_pos_y + 1):
                 temp = grid.grid[grid_pos_x][grid_pos_y + 1]
                 grid.grid[grid_pos_x][grid_pos_y + 1] = grid.grid[grid_pos_x][grid_pos_y]
                 grid.grid[grid_pos_x][grid_pos_y] = temp
                 return True
-            if random.randint(0, 1) == 1 and grid.grid[grid_pos_x][grid_pos_y - 1].state == 0 and particle_oob_check(
+            if randint == 1 and grid.grid[grid_pos_x][grid_pos_y - 1].state != 1 and particle_oob_check(
                     grid_pos_x, grid_pos_y - 1):
                 temp = grid.grid[grid_pos_x][grid_pos_y - 1]
                 grid.grid[grid_pos_x][grid_pos_y - 1] = grid.grid[grid_pos_x][grid_pos_y]
