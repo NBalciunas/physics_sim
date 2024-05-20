@@ -1,6 +1,5 @@
 import unittest
 from main import particle_oob_check
-from main import change_of_state
 
 
 class MyTestCase(unittest.TestCase):
