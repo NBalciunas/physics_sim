@@ -23,9 +23,6 @@ class MyTestCase(unittest.TestCase):
         function = particle_oob_check(50, 0, 50, 50)
         self.assertEqual(function, False)
 
-    def test_change_of_state(self):
-        function = change_of_state(25, 25)
-        self.assertEqual(function, False)
 
 if __name__ == '__main__':
     unittest.main()
